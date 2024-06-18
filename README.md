@@ -11,3 +11,5 @@ DidoTell is a cheat made by me for fun and learning
 ### Big thanks to Gr1ndy for helping me fix some crashes and improve it
 
 ## Please read: Im very fucking shit at coding so dont expect much from this goofy paste
+
+# My discord : molxxt
